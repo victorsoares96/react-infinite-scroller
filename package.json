@@ -1,5 +1,5 @@
 {
-  "name": "react-infinite-scroller",
+  "name": "@vitu.soares/react-infinite-scroller",
   "version": "1.2.4",
   "description": "Infinite scroll component for React in ES6",
   "main": "index.js",
@@ -36,7 +36,7 @@
     "prop-types": "^15.5.8"
   },
   "peerDependencies": {
-    "react": "^0.14.9 || ^15.3.0 || ^16.0.0"
+    "react": "^0.14.9 || ^15.3.0 || ^16.0.0 || ^17.0.0"
   },
   "devDependencies": {
     "babel-cli": "^6.6.5",
